@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maufq
+- 👋 Hi, I’m Mauro
 - 👀 I’m interested in Cloud Architecture and DevOps
 - 🌱 I’m currently learning Hashicorp Vault
 <!---
